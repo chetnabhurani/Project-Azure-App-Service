@@ -9,3 +9,7 @@ Azure App Service is an HTTP-based service for hosting web applications, REST AP
 Deployment slots are live apps with their own host names. App content and configurations elements can be swapped between two deployment slots, including the production slot.
 
 The following project include deployment of Application and adding Deployment Slots for the same.
+
+> *Project Report* includes everything related to the project.
+> *Project Illustration* includes video illustration of the project.
+> *Snapshots* includes step by step snapshots.
